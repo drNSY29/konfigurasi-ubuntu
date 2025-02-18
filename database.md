@@ -11,9 +11,6 @@ systemctl enable --now mariadb-server
 ``````
 mysql_secure_installation
 ``````
->[!NOTE]
-> Intructions from trainer
-
 * Connect to console mariadb
 ``````
 mysql -u root -p
