@@ -20,10 +20,6 @@ cd /etc/apache2
 ``````
 vim sites-available/000-default.conf
 ``````
-* Edit configuration like below
-``````
-ServerName www.idnbisa.local
-``````
 * Edit konten website with echo
 ``````
 echo "<h1><center>Belajar Web Service Bersama Kelompok 17</center></h1>" > /var/www/html/index.html
