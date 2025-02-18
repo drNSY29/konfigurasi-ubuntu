@@ -1,4 +1,5 @@
 # konfigurasi-webserver ubuntu
+
 Web service
 
     Install apache2
@@ -20,8 +21,6 @@ cd /etc/apache2
     Edit file configuration default apache2
 
 vim sites-available/000-default.conf
-
-    Edit configuration like below
 
     Edit konten website with echo
 
